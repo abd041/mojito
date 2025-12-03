@@ -1,4 +1,3 @@
-import React from "react";
 import { featureLists, goodLists } from "../../constants";
 
 const Art = () => {
@@ -15,7 +14,6 @@ const Art = () => {
               </li>
             ))}
           </ul>
-
           <div className="cocktail-img">
             <img
               src="/images/under-img.jpg"
